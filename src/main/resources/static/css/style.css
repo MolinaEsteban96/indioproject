@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+#bg {
+    background-image: url(/imgs/background.jpg);
+    height: 100vh;
+}
+
+#main img {
+	
+	max-height: 100%;
+	max-width: 100%;
+}
